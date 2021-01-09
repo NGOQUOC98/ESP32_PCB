@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name bee-rescue)(type Legacy)(uri /Users/phult/Projects/iotmaker/BeAmp/be-amp-hw/bee-rescue.lib)(options "")(descr ""))
+  (lib (name APM4953_FET)(type Legacy)(uri C:/Users/HENRY/Desktop/TEST/kicad-lib/APM4953_FET.lib)(options "")(descr ""))
+  (lib (name led_matrix)(type Legacy)(uri C:/Users/HENRY/Desktop/TEST/kicad-lib/led_matrix.lib)(options "")(descr ""))
+  (lib (name bms-active-hw-rescue)(type Legacy)(uri C:/Users/HENRY/Desktop/TEST/bms-active-hw-rescue.lib)(options "")(descr ""))
+)

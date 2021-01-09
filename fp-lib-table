@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name footrint_BMS)(type KiCad)(uri C:/Users/HENRY/Desktop/kicad-library/footprints)(options "")(descr ""))
+  (lib (name foot)(type KiCad)(uri C:/Users/HENRY/Desktop/TEST/kicad-lib/footrint)(options "")(descr ""))
+)
